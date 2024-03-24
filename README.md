@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## Skills:
-![MS SQL SERVER](https://img.shields.io/badge/MS_Sql_Server-3DDC84?style=for-the-badge&logo=Microsoft-sql-server&logoColor=white&labelColor=101010)<br>
-![.NET](https://img.shields.io/badge/.NET-2596BE?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)<br>
+![.NET](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)<br>
+![MS SQL SERVER](https://img.shields.io/badge/MS_Sql_Server-CC2927?style=for-the-badge&logo=Microsoft-sql-server&logoColor=white&labelColor=101010)<br>
+
 <!--
 **JoseMPacheco/JoseMPacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
