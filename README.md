@@ -1,7 +1,8 @@
-### Hi there 👋
+### 👋
 ## Skills:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)<br>
-![.NET](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)<br>
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
+![SPRING BOOT](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)<br>
 ![MS SQL SERVER](https://img.shields.io/badge/MS_Sql_Server-CC2927?style=for-the-badge&logo=Microsoft-sql-server&logoColor=white&labelColor=101010)<br>
 
 <!--
